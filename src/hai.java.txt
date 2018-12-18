@@ -15,7 +15,118 @@ SBI, Kashibugga Branch,
 Warangal.
 Subject: Request for second release of housing loan
 Dear Sir, 
-I having a savings account in your branch for the past ----- years  with account number-------,  My first  installment of  housing loan of  rupees 13,50000 was released in the  month of MAY , now construction of pillars, slab of my G+2  house has been completed. So, I  kindly request you to release  of  second  installment of housing  loan of rupees 13,50000.
+I having a savings account in your branch for the past ----- years  with account number-------,  My first  installment of  housing loan of  rupees 13,50000 was released in the  month of MAY , now construction of pillars, slab of my G+2  house has been completed. So, I  kindly request you to release  of  second  installment of housing  loan of rupees 13,50000.DevOps Engineer
+VENKAT M                                                                                                                          mail.venkateshm@gmail.com
++91-8970431057                                                                                                                                                                                                                                                                                            ________________________________________
+Professional Summary
+•	Having total 6 years of IT experience, which includes 4 years in implementation of DevOps( Build & Release),  Amazon Web Service’s and 2 years in WebSphere Administration?
+•	Experience in DevOps tools like SVN, GIT, Maven, Ant, Jenkins, Rundeck, Docker, Ansible and Cloud computing tools like Amazon Web Services.
+•	Responsible for Build and Install Schedules using Cron jobs.
+•	Involved in the release process and deployed applications (WAR, and JAR) to the Tomcat server.
+•	Experience in DevOps practices and good understand of development, automation and operations to ensure quick delivery of projects to the clients.
+•	Configured end-to-end delivery pipeline using Git version control system, ANT/Maven, CI tool Jenkins and Tomcat server.
+•	Good experience in SCM tools like SVN, Git and Github.
+•	Experience in creating Trunk, Branch, Tag and Merging with SVN and GIT.
+•	Deployed Artifacts to various test environments using Shell Scripts via Jenkins machine.
+•	Worked with developers, QA and Product support teams to identify and resolve build problems.
+•	Created multiple build and testing jobs, plug-ins installations, configured Distributed builds using Master/Slave concept in Jenkins to achieve Continuous Integration and Delivery. 
+•	Strong knowledge on Amazon Web Services like EC2, S3, EBS, ELB, IAM roles through AWS Console stage.
+•	Creating AMIs, Snapshots, and Volumes and managing EBS Volumes.
+•	Configured and managing ELBs and S3 storage. 
+•	Created AMI images of the critical EC2 instance as backup using AWS GUI.
+•	Expertise in applications deployment on Web and App Servers like Apache Tomcat and WebSphere application server.
+•	Coordinate, facilitate and communicate with agile teams to set up deployment or release plans.
+•	Good working knowledge on Linux/Unix, shell scripting.
+•	Proficiency with DevOps like Vagrant, Spinning up the VM on Virtual box and AWS.
+•	
+Education Qualification:
+?	B. Tech in Electronics & Communication Engineering, JNTU HYD.
+Professional Experience:
+?	Working as AWS/DevOps engineer with Tech Mahindra, Bangalore from Nov -2014 to till date.
+?	Worked as WebSphere Admin in Tata Consultancy services, Bangalore from Nov-2012 to Sep-2014.
+Technical Skills:
+Cloud Technologies                    :         Amazon Web Services (AWS).
+SCM Tools		            :	        Subversion, Git and Github.
+Build Tools		            :          Ant, Maven
+CI & CD Tools	                          :	         Jenkins, Hudson
+Artifactory Repository                :          Nexus
+Deployment Tool                        :          Rundeck
+Configuration Management    :           Ansible.
+Web & Application Servers      :           WebSphere Application Server, Apache Tomcat, IHS.
+Scripting Languages                    :           Shell Scripting.
+Containerization                          :           Docker.
+Operating Systems	             :           Windows, UNIX and Red Hat Linux.   
+Code Coverage                             :           SonarQube, SonarScanner.    
+    
+Projects Handled :
+Project 3 
+Title		          :	 Best Buy Retailer.
+Client                             :     Honda.
+Period		          :	 Sep 2016 - Till date.
+Role		          :	 AWS/DevOps Engineer.
+Environment	          :     Git, Github, Jenkins’s, Maven, Nexus, Rundeck, AWS, Linux, Docker, Ansible.
+Responsibilities:  
+•	Performed SCM tasks, such as check-in, checkout, branching, tagging and merging code from development branches to main branch and main branch to development branches.
+•	Creating Branches, tags and providing SVN user access to all developers in the organization
+•	Worked on Jenkins and Maven for continuous Build.
+•	Installing/Configuring/Managing Jenkins CI Automation
+•	Built up CI/CD pipeline using Git, Ant, Maven, Jenkins for JAVA and Middleware applications. 
+•	Creating new jobs in Jenkins and managing the build related issues. 
+•	Setting up JENKINS master, adding the necessary plugins and adding more slaves to support scalability and agility
+•	Coordinating with the Development team to fix the Build related issues.
+•	Creating various CI/CD pipelines by integrating source control tools GIT, GitHub, Build tools like Maven, CI tool like Jenkins.
+•	Provide stable build environments for product development.
+•	Worked on AWS ec2 instances. Launching of multiple EC2 instance, stop, start and terminate the service.
+•	Worked on assigning ELASTIC IP to ec2 instance and EBS Volume.
+•	Created snapshots for volume’s and AMI's backups.
+•	Worked on Identity and access management roles, Creation Users, Roles, Polices and Groups
+•	Worked on S3 Storage, upload and download images and restriction of access to buckets and files based on the requirement.
+•	Worked on editing the bucket policies and permissions.
+•	Worked on cloud watch based on metrics to get the notifications.
+
+Project 2
+Title		          :	 Insurance Management System.
+Client                             :    Royal Sun Alliance.
+Period		          :	Oct 2014 – Aug 2016.
+Role		          :	 Build & Release Engineer
+Environment	          :     SVN, Jenkins’s, Maven, Nexus, Rundeck, Linux, Apache Tomcat, shell script.
+Responsibilities:  
+•	Used Git as source code repositories, Developed build and deployment processes for Pre-production environments.
+•	Created Branches and Tags on request from Development Team in Subversion.
+•	Expertise in handling GIT administration and configuration.
+•	Creating Repository in git and to perform git pull and git push operations to the repository
+•	Worked on SVN, repository for commits, backups, access restriction to users.
+•	Branching, Tagging, Release Activities on Version Control Tools: SVN, GIT.
+•	Worked on Jenkins and Maven for continuous Build.
+•	Built up CI/CD pipeline using Git, Ant, Maven, Jenkins for JAVA and Middleware applications.
+•	Creating new jobs in Jenkins and managing the build related issues.
+•	Coordinating with the Development team to fix the Build related issues.
+•	Creating various CI/CD pipelines by integrating source control tools GIT, GitHub, Build tools like Maven, CI tool like Jenkins.
+•	Provide stable build environments for product development.
+•	Managed Git repositories for branching, merging, and tagging issues
+•	Installing, configuring and administering Jenkins CI tool on Linux machines
+•	Implemented the setup for Master slave architecture to improve the Performance of Jenkins
+•	Used Jenkins for Continuous Integration and deployment into Tomcat Application Server
+•	Installed and Configured the Nexus repository manager for sharing the artifacts.
+•	Deployed application’s to test server’s using deployment tool Rundeck.
+
+
+Project 1
+Title			:            SuperDrug.
+Client                                 :            WatSon Group
+Period		               :	Nov 2012 – Sep 2014.
+Role			:	Middleware Administrator.
+Environment		:     	 WebSphere7.0, Linux, IHS.  
+Responsibilities:  
+•	Involved in WebSphere Application Server environment setup includes IBM HTTP Server, Apache Web Server, on UNIX.
+•	Installed IHS Server on different nodes and configured them by generating the plug-in.
+•	Created, Configured & Administered Profiles, Node Agents, Nodes and Node Groups. 
+•	Involved in designing WebSphere Application Server Profiles Creation, Work Load Management (WLM), Horizontal and Vertical Clustering. .
+•	Used Collector Tool to gather information about installation and packages.
+•	Analyzed Console Messages, Java Exceptions, Log Files and Traces.
+•	Applications deploy using EAR and WAR files through admin console.
+•	Performed routine management of WAS like monitoring disk space and CPU utilization.
+
 I have attached all documents and forms as instructed by the bank.
 Thanking you,
 Yours sincerely,
