@@ -57,14 +57,14 @@
   </build>
   <distributionManagement>
   <repository>
-    <id>R-repo</id>
+    <id>hcl_rel</id>
     <!-- CHANGE HERE by your team nexus server -->
-    <url>http://localhost:8081/repository/R-repo/</url>
+    <url>http://localhost:8081/repository/hcl_rel/</url>
   </repository>
   <snapshotRepository>
-    <id>snapRepo</id>
+    <id>hcl_snap</id>
     <!-- CHANGE HERE by your team nexus server -->
-    <url>http://localhost:8081/repository/snapRepo/</url>
+    <url>http://localhost:8081/repository/hcl_snap/</url>
   </snapshotRepository>
 </distributionManagement>
 </project>
